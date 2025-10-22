@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hivyshu
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me moravaishnavi123@gmail.com 
 
