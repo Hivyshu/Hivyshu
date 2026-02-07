@@ -1,10 +1,111 @@
-- 👋 Hi, I’m @Hivyshu
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me moravaishnavi123@gmail.com 
+<h1 align="center">Hi 👋, I'm Vaishnavi</h1>
+<h3 align="center">Aspiring DevOps Engineer | Python Developer</h3>
 
-<!---
-Hivyshu/Hivyshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=social" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Computer Science student  
+- 🐍 Primary language: **Python**
+- 🛠️ Focused on **DevOps, Cloud & Automation**
+- 🚀 Learning by building **real-world projects**
+- 📦 Interested in CI/CD, Containers & Infrastructure as Code
+- 💼 Open to **internships & entry-level DevOps roles**
+
+---
+
+## 🧰 Tech Stack
+
+### 🗣️ Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### ⚙️ DevOps & Cloud Tools
+<p>
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+- Advanced Kubernetes concepts  
+- AWS core services (EC2, S3, IAM, ALB)  
+- Terraform modules & best practices  
+- CI/CD pipelines and automation  
+
+---
+
+## 📌 Featured Project Areas
+- 🐳 Dockerized applications  
+- ☸️ Kubernetes deployments  
+- 🔁 CI/CD pipelines with GitHub Actions & Jenkins  
+- ☁️ AWS infrastructure using Terraform  
+- 🐍 Python automation scripts  
+
+---
+
+## 👯 Looking to Collaborate On
+- DevOps & Cloud projects  
+- Infrastructure as Code (IaC)  
+- Python-based automation tools  
+
+---
+
+## 💬 Ask Me About
+- Python programming  
+- Docker & Kubernetes basics  
+- AWS fundamentals  
+- Git, Linux & CI/CD pipelines  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&row=1&column=6" />
+</p>
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+
+---
+
+## ⚡ Fun Fact
+> I enjoy automating things I used to do manually 😄
+
