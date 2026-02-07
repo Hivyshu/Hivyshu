@@ -88,7 +88,7 @@ DevOps Engineer · Cloud Engineer · SRE · CI/CD · Docker · Kubernetes · AWS
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hivyshu&theme=rogue&hide_border=true&area=true" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
