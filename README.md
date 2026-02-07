@@ -72,7 +72,7 @@ DevOps Engineer · Cloud Engineer · SRE · CI/CD · Docker · Kubernetes · AWS
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoraVaishnavi&show_icons=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hivyshu&show_icons=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ DevOps Engineer · Cloud Engineer · SRE · CI/CD · Docker · Kubernetes · AWS
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoraVaishnavi" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hivyshu" />
 </p>
 
 ---
@@ -96,7 +96,7 @@ DevOps Engineer · Cloud Engineer · SRE · CI/CD · Docker · Kubernetes · AWS
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MoraVaishnavi&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hivyshu&row=1&column=6" />
 </p>
 
 ---
