@@ -2,12 +2,12 @@
 <h3 align="center">Aspiring DevOps Engineer | Python Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MoraVaishnavi&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=social" />
+  <img src="https://img.shields.io/github/followers/MoraVaishnavi?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/MoraVaishnavi?label=Stars&style=social" />
 </p>
 
 ---
@@ -17,9 +17,8 @@
 - 🎓 Computer Science student  
 - 🐍 Primary language: **Python**
 - 🛠️ Focused on **DevOps, Cloud & Automation**
-- 🚀 Learning by building **real-world projects**
-- 📦 Interested in CI/CD, Containers & Infrastructure as Code
-- 💼 Open to **internships & entry-level DevOps roles**
+- 🚀 Learning by building real-world projects
+- 💼 Open to internships & entry-level DevOps roles
 
 ---
 
@@ -40,72 +39,29 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
-
----
-
-## 🌱 Currently Learning
-- Advanced Kubernetes concepts  
-- AWS core services (EC2, S3, IAM, ALB)  
-- Terraform modules & best practices  
-- CI/CD pipelines and automation  
-
----
-
-## 📌 Featured Project Areas
-- 🐳 Dockerized applications  
-- ☸️ Kubernetes deployments  
-- 🔁 CI/CD pipelines with GitHub Actions & Jenkins  
-- ☁️ AWS infrastructure using Terraform  
-- 🐍 Python automation scripts  
-
----
-
-## 👯 Looking to Collaborate On
-- DevOps & Cloud projects  
-- Infrastructure as Code (IaC)  
-- Python-based automation tools  
-
----
-
-## 💬 Ask Me About
-- Python programming  
-- Docker & Kubernetes basics  
-- AWS fundamentals  
-- Git, Linux & CI/CD pipelines  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoraVaishnavi&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoraVaishnavi" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoraVaishnavi&layout=compact" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MoraVaishnavi&row=1&column=6" />
 </p>
 
----
-
-## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
-
----
-
-## ⚡ Fun Fact
-> I enjoy automating things I used to do manually 😄
 
