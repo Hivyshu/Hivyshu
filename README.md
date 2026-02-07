@@ -22,29 +22,28 @@
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science student  
-- 🐍 Primary language: **Python**
-- ☁️ Passionate about **DevOps, Cloud & Automation**
-- 🚀 Learning by building **real-world DevOps projects**
-- 🔁 Interested in **CI/CD, Containers & Infrastructure as Code**
-- 💼 Actively seeking **DevOps Intern / Entry-Level DevOps Engineer roles**
+- 🐍 Python Developer  
+- ☁️ Aspiring **DevOps Engineer**
+- 🔁 Focused on **CI/CD, Cloud & Automation**
+- 🚀 Building real-world DevOps projects
+- 💼 Actively seeking **DevOps Intern / Entry-Level Roles**
 
 ---
 
-## 🧲 Recruiter Keywords (ATS Friendly)
+## 🧲 Recruiter Keywords
 
-**DevOps Engineer | Cloud Engineer | Site Reliability Engineer (SRE)**  
-**CI/CD • Docker • Kubernetes • AWS • Terraform • Ansible • Linux • Git • Python • Automation • Cloud Infrastructure • Monitoring • DevOps Intern**
+DevOps Engineer · Cloud Engineer · SRE · CI/CD · Docker · Kubernetes · AWS · Terraform · Ansible · Linux · Git · Python · Automation · Cloud Infrastructure
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🗣️ Languages
+### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### ⚙️ DevOps & Cloud Tools
+### DevOps & Cloud
 <p>
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -60,22 +59,20 @@
 
 ---
 
-## 📌 Pinned DevOps Project Areas
+## 📌 DevOps Project Focus
 
-- 🐳 **Dockerized Python Applications**
-- ☸️ **Kubernetes Deployments & Services**
-- 🔁 **CI/CD Pipelines (GitHub Actions & Jenkins)**
-- ☁️ **AWS Infrastructure with Terraform**
-- 🔧 **Automation Scripts using Python & Bash**
-
-> 📍 *(Tip: Pin 3–4 real repos on your GitHub profile for maximum impact)*
+- Dockerized Applications  
+- Kubernetes Deployments  
+- CI/CD Pipelines  
+- AWS Infrastructure with Terraform  
+- Python Automation Scripts  
 
 ---
 
-## 📊 GitHub Stats (Dark / Light Adaptive)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoraVaishnavi&show_icons=true&include_all_commits=true&count_private=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoraVaishnavi&show_icons=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
@@ -88,7 +85,7 @@
 
 ---
 
-## 📈 Activity Graph (Animated)
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoraVaishnavi" />
@@ -97,8 +94,9 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MoraVaishnavi&theme=flat&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MoraVaishnavi&row=1&column=6" />
 </p>
 
 ---
@@ -109,10 +107,6 @@
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+## 📫 Connect
 
----
-
-## ⚡ Fun Fact
-> I enjoy automating things I used to do manually 😄
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
