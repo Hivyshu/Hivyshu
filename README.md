@@ -69,22 +69,6 @@ DevOps Engineer · Cloud Engineer · SRE · CI/CD · Docker · Kubernetes · AWS
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hivyshu&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hivyshu&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hivyshu&layout=compact&theme=tokyonight" />
-</p>
-
 
 
 ---
@@ -97,17 +81,9 @@ DevOps Engineer · Cloud Engineer · SRE · CI/CD · Docker · Kubernetes · AWS
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hivyshu&row=1&column=6" />
-</p>
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake animation](https://raw.githubusercontent.com/MoraVaishnavi/MoraVaishnavi/output/github-contribution-grid-snake.svg)
 
 ---
 
