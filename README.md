@@ -109,4 +109,4 @@ DevOps Engineer · Cloud Engineer · SRE · CI/CD · Docker · Kubernetes · AWS
 
 ## 📫 Connect
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+- LinkedIn: https://www.linkedin.com/in/mora-vaishnavi
