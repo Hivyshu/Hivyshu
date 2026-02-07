@@ -76,11 +76,11 @@ DevOps Engineer · Cloud Engineer · SRE · CI/CD · Docker · Kubernetes · AWS
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoraVaishnavi" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hivyshu" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoraVaishnavi&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hivyshu&layout=compact" />
 </p>
 
 ---
